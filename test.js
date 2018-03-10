@@ -1,2 +1,1 @@
-//output text to the Terminal
-console.log("Hi World!")
+console.log("Hi")
